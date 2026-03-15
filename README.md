@@ -44,9 +44,6 @@
 
 <p align="center">
   <a href="https://github.com/Ywj-ch">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ywj-ch&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Ywj-ch">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywj-ch&layout=compact&theme=radical&hide_border=true&card_width=320" />
   </a>
   <a href="https://leetcode.cn/u/support-5/">
