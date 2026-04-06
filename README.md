@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=550&lines=Reading+is+faster+than+listening;Acting+is+faster+than+watching;Mechanical+effort+cannot+mask+mental+laziness;Keep+patience+and+perseverance;Diving+into+underlying+principles)](https://git.io/typing-svg)
 
-🔭 **Current Status**: Undergraduate in IoT Engineering at Hunan Normal University(HNNU), preparing for graduate school interviews.
+🔭 **Current Status**: Undergraduate in IoT Engineering at Hunan Normal University(HNNU), admitted to graduate school (MPhil). Currently learning Python data processing and AI/ML.
 💻 **Tech Focus**: Full-stack development (Vue / Three.js / Spring Boot), exploring the intersection of AI and software engineering (CV / Agent).
 🚀 **Current Goal**: Continuously optimizing [CubeMaster](https://github.com/Ywj-ch/CubeMaster), an intelligent Rubik's Cube recognition and solving system.
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://github.com/Ywj-ch">
-    <img height="165" src="https://readme-stats-api.apjs.net/api/top-langs/?username=Ywj-ch&layout=compact&theme=radical&hide_border=true&card_width=320&cache_seconds=1800" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywj-ch&layout=compact&theme=radical&hide_border=true&card_width=320&cache_seconds=1800&exclude_repo=Ywj-ch.github.io" />
   </a>
   <a href="https://leetcode.cn/u/support-5/">
     <img height="165" src="https://stats.justsong.cn/api/leetcode?username=support-5&cn=true&lang=zh-CN&theme=dark&hide_title=true&cache_seconds=1800" />
