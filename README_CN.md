@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=550&lines=Reading+is+faster+than+listening;Acting+is+faster+than+watching;Mechanical+effort+cannot+mask+mental+laziness;Keep+patience+and+perseverance;Diving+into+underlying+principles)](https://git.io/typing-svg)
 
-🔭 **目前状态**：[湖南师范大学](https://www.hunnu.edu.cn/) 物联网工程本科在读，正积极准备复试。
+🔭 **目前状态**：[湖南师范大学](https://www.hunnu.edu.cn/) 物联网工程本科在读，研究生拟录取。
 💻 **技术方向**：全栈开发（Vue / Three.js / Spring Boot），探索 AI 与软件工程的结合（CV / Agent）。
 🚀 **近期目标**：持续优化 [CubeMaster](https://github.com/Ywj-ch/CubeMaster) 智能魔方识别还原系统。
 
