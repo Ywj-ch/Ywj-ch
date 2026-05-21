@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=550&lines=Reading+is+faster+than+listening;Acting+is+faster+than+watching;Mechanical+effort+cannot+mask+mental+laziness;Keep+patience+and+perseverance;Diving+into+underlying+principles)](https://git.io/typing-svg)
 
-🔭 **目前状态**：[湖南师范大学](https://www.hunnu.edu.cn/) 物联网工程本科在读，研究生拟录取。
+🔭 **目前状态**：[湖南师范大学](https://www.hunnu.edu.cn/) 物联网工程本科在读，正积极准备复试。
 💻 **技术方向**：全栈开发（Vue / Three.js / Spring Boot），探索 AI 与软件工程的结合（CV / Agent）。
 🚀 **近期目标**：持续优化 [CubeMaster](https://github.com/Ywj-ch/CubeMaster) 智能魔方识别还原系统。
 
@@ -47,7 +47,7 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ywj-ch&show_icons=true&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/Ywj-ch">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ywj-ch&layout=compact&theme=radical&hide_border=true&card_width=320" />
+    <img height="165" src="assets/top-langs.svg" />
   </a>
   <a href="https://leetcode.cn/u/support-5/">
     <img height="165" src="https://stats.justsong.cn/api/leetcode?username=support-5&cn=true&lang=zh-CN&theme=dark&hide_title=true" />
