@@ -9,7 +9,7 @@ from collections import defaultdict
 
 GITHUB_USER = "Ywj-ch"
 EXCLUDE_REPOS = {"Ywj-ch.github.io"}
-LIMIT = 8
+LIMIT = 5
 OUTPUT = pathlib.Path("assets/top-langs.svg")
 
 API_BASE = "https://api.github.com"
@@ -112,12 +112,12 @@ def generate_svg(languages):
         pct = bytes_count / total_displayed * 100
         items.append((name, bytes_count, pct))
 
-    W = 340
+    W = 420
     PAD = 20
     ROW_H = 28
     HEADER_H = 45
-    BAR_W = 180
-    NAME_W = 85
+    BAR_W = 250
+    NAME_W = 95
     H = HEADER_H + len(items) * ROW_H + PAD
 
     def svg_tag(name, **attrs):

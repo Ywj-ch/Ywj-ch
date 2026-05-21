@@ -1,47 +1,35 @@
-<svg width="340" height="317" viewBox="0 0 340 317" xmlns="http://www.w3.org/2000/svg">
+<svg width="420" height="233" viewBox="0 0 420 233" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="card-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#1a1b27"/>
       <stop offset="100%" stop-color="#141b2d"/>
     </linearGradient>
   </defs>
-  <rect width="340" height="317" fill="url(#card-bg)" rx="10"/>
-  <rect x="0.5" y="0.5" width="339" height="316" fill="none" stroke="#30363d" stroke-width="1" rx="10"/>
+  <rect width="420" height="233" fill="url(#card-bg)" rx="10"/>
+  <rect x="0.5" y="0.5" width="419" height="232" fill="none" stroke="#30363d" stroke-width="1" rx="10"/>
   <text x="20" y="30" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Most Used Languages</text>
   <text x="20" y="57" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Vue</text>
-  <rect x="105" y="47" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="47" width="73" height="10" fill="#41b883" rx="5"/>
-  <text x="293" y="57" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">40.9%</text>
+  <rect x="115" y="47" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="47" width="102" height="10" fill="#41b883" rx="5"/>
+  <text x="373" y="57" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">40.9%</text>
   <text x="20" y="85" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Java</text>
-  <rect x="105" y="75" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="75" width="66" height="10" fill="#b07219" rx="5"/>
-  <text x="293" y="85" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">37.2%</text>
+  <rect x="115" y="75" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="75" width="93" height="10" fill="#b07219" rx="5"/>
+  <text x="373" y="85" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">37.2%</text>
   <text x="20" y="113" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">JavaScript</text>
-  <rect x="105" y="103" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="103" width="15" height="10" fill="#f1e05a" rx="5"/>
-  <text x="293" y="113" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">8.8%</text>
+  <rect x="115" y="103" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="103" width="22" height="10" fill="#f1e05a" rx="5"/>
+  <text x="373" y="113" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">8.8%</text>
   <text x="20" y="141" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">HTML</text>
-  <rect x="105" y="131" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="131" width="10" height="10" fill="#e34c26" rx="5"/>
-  <text x="293" y="141" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">5.8%</text>
+  <rect x="115" y="131" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="131" width="14" height="10" fill="#e34c26" rx="5"/>
+  <text x="373" y="141" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">5.8%</text>
   <text x="20" y="169" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Python</text>
-  <rect x="105" y="159" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="159" width="7" height="10" fill="#3572A5" rx="5"/>
-  <text x="293" y="169" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">4.0%</text>
-  <text x="20" y="197" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">CSS</text>
-  <rect x="105" y="187" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="187" width="2" height="10" fill="#563d7c" rx="5"/>
-  <text x="293" y="197" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">1.4%</text>
-  <text x="20" y="225" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">SCSS</text>
-  <rect x="105" y="215" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="215" width="1" height="10" fill="#c6538c" rx="5"/>
-  <text x="293" y="225" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">0.7%</text>
-  <text x="20" y="253" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">C++</text>
-  <rect x="105" y="243" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="243" width="1" height="10" fill="#f34b7d" rx="5"/>
-  <text x="293" y="253" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">0.5%</text>
-  <text x="20" y="281" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Others</text>
-  <rect x="105" y="271" width="180" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="105" y="271" width="1" height="10" fill="#666666" rx="5"/>
-  <text x="293" y="281" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">0.7%</text>
+  <rect x="115" y="159" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="159" width="10" height="10" fill="#3572A5" rx="5"/>
+  <text x="373" y="169" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">4.0%</text>
+  <text x="20" y="197" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Others</text>
+  <rect x="115" y="187" width="250" height="10" fill="#2d2d3a" rx="5"/>
+  <rect x="115" y="187" width="8" height="10" fill="#666666" rx="5"/>
+  <text x="373" y="197" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">4.0%</text>
 </svg>
