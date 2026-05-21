@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&width=550&lines=Reading+is+faster+than+listening;Acting+is+faster+than+watching;Mechanical+effort+cannot+mask+mental+laziness;Keep+patience+and+perseverance;Diving+into+underlying+principles)](https://git.io/typing-svg)
 
-🔭 **Current Status**: Undergraduate in IoT Engineering at Hunan Normal University(HNNU), preparing for graduate school interviews.
+🔭 **Current Status**: Master student in Software Engineering at Chongqing University (CQU).
 💻 **Tech Focus**: Full-stack development (Vue / Three.js / Spring Boot), exploring the intersection of AI and software engineering (CV / Agent).
 🚀 **Current Goal**: Continuously optimizing [CubeMaster](https://github.com/Ywj-ch/CubeMaster), an intelligent Rubik's Cube recognition and solving system.
 
