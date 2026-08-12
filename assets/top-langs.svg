@@ -10,26 +10,26 @@
   <text x="20" y="30" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">Most Used Languages</text>
   <text x="20" y="57" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Vue</text>
   <rect x="115" y="47" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="47" width="102" height="10" fill="#41b883" rx="5"/>
-  <text x="373" y="57" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">40.9%</text>
+  <rect x="115" y="47" width="105" height="10" fill="#41b883" rx="5"/>
+  <text x="373" y="57" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">42.2%</text>
   <text x="20" y="85" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Java</text>
   <rect x="115" y="75" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="75" width="92" height="10" fill="#b07219" rx="5"/>
-  <text x="373" y="85" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">37.1%</text>
+  <rect x="115" y="75" width="90" height="10" fill="#b07219" rx="5"/>
+  <text x="373" y="85" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">36.2%</text>
   <text x="20" y="113" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">JavaScript</text>
   <rect x="115" y="103" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="103" width="22" height="10" fill="#f1e05a" rx="5"/>
-  <text x="373" y="113" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">8.8%</text>
+  <rect x="115" y="103" width="23" height="10" fill="#f1e05a" rx="5"/>
+  <text x="373" y="113" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">9.5%</text>
   <text x="20" y="141" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">HTML</text>
   <rect x="115" y="131" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="131" width="14" height="10" fill="#e34c26" rx="5"/>
-  <text x="373" y="141" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">5.7%</text>
+  <rect x="115" y="131" width="15" height="10" fill="#e34c26" rx="5"/>
+  <text x="373" y="141" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">6.2%</text>
   <text x="20" y="169" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Python</text>
   <rect x="115" y="159" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="159" width="10" height="10" fill="#3572A5" rx="5"/>
-  <text x="373" y="169" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">4.2%</text>
+  <rect x="115" y="159" width="7" height="10" fill="#3572A5" rx="5"/>
+  <text x="373" y="169" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">3.1%</text>
   <text x="20" y="197" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Others</text>
   <rect x="115" y="187" width="250" height="10" fill="#2d2d3a" rx="5"/>
-  <rect x="115" y="187" width="8" height="10" fill="#666666" rx="5"/>
-  <text x="373" y="197" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">3.2%</text>
+  <rect x="115" y="187" width="6" height="10" fill="#666666" rx="5"/>
+  <text x="373" y="197" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">2.7%</text>
 </svg>
